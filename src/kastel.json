@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mykhailo.muzyka535@gmail.com",
+                "Name": "Mykhailo Muzyka"
+            }
+        ],
+        "Description": "",
+        "EnabledByDefault": true,
+        "Icon": "color-management",
+        "Id": "kastel",
+        "License": "GPL",
+        "Name": "Kastel",
+        "Version": "0.0.1"
+    },
+    "X-Plasma-AdvertiseSingleRunnerQueryMode": true
+}
