@@ -10,7 +10,7 @@
         "EnabledByDefault": true,
         "Icon": "color-management",
         "Id": "kastel",
-        "License": "GPL",
+        "License": "GPL-3.0",
         "Name": "Kastel",
         "Version": "0.0.1"
     },
