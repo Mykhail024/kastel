@@ -93,7 +93,7 @@ void kastel::match(KRunner::RunnerContext &context)
 void kastel::run(const KRunner::RunnerContext &context, const KRunner::QueryMatch &match)
 {
     Q_UNUSED(context);
-    QApplication::clipboard()->setText(match.text());
+    QApplication::clipboard()->setText(match.text().chopped(1));
 }
 
 void kastel::reloadConfiguration() { }
