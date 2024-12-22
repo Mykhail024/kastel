@@ -11,7 +11,7 @@
 #include <krunner/abstractrunner.h>
 #include <qlogging.h>
 
-#include "Commands.h"
+#include "commands.h"
 
 #include "kastel.h"
 

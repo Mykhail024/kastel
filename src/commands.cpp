@@ -3,7 +3,7 @@
 #include <QString>
 #include <QProcess>
 
-#include "Commands.h"
+#include "commands.h"
 
 std::pair<int, QString> execCommand(const QString &command, const QStringList &args) {
     QProcess procces;
