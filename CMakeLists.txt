@@ -20,7 +20,7 @@ include(KDECompilerSettings NO_POLICY_SCOPE)
 find_package (Qt6 ${QT_MIN_VERSION} REQUIRED CONFIG COMPONENTS Core Widgets)
 find_package (KF6 ${KF6_MIN_VERSION} REQUIRED COMPONENTS Runner)
 
-set(KASTEL_SOURCES src/kastel.cpp src/kastel.h src/Commands.cpp)
+set(KASTEL_SOURCES src/kastel.cpp src/kastel.h src/commands.cpp)
 
 include_directories (src ${CMAKE_BUILD_DIR})
 
