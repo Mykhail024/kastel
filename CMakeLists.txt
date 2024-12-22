@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(kastel)
+project(kastel VERSION 0.1)
 
 set(CMAKE_BUILD_TYPE "Release")
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
